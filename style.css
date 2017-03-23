@@ -1,0 +1,66 @@
+h1 {
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: orange;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+h2 {
+    color: #1cceb0;
+}
+h3 {
+    color:#c19995;
+}
+
+li {
+    color: #c16f3c;
+}
+
+#drake {
+    background-color: #0f1a7a;
+}
+
+#drake:hover {
+    background-color: #1e2dcc;
+}
+#kanye {
+    background-color:pink;
+}
+
+#kanye:hover {
+    background-color: #ea3f9a;
+}
+#beyonce {
+    background-color: #726d6d;
+}
+#beyonce:hover {
+    background-color: #595858;
+}
+#zed {
+    background-color: #ba1639;
+}
+#taylorswift {
+    background-color: grey;
+}
+#arianagrande {
+    background-color: #f0f936;
+}
+#lttlewayne {
+    background-color: brown;
+}
+#fettywap {
+    background-color:#319324;
+}
+#shawnmendas {
+    background-color: #690987;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid white;
+}
